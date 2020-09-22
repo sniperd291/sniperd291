@@ -1,16 +1,33 @@
-### Hi there 👋
+# João Gomes
 
-<!--
-**JoaoGomes5/JoaoGomes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Enthusiastic about the best Web and Mobile development technologies.
 
-Here are some ideas to get you started:
+### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
+
+### My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧
+
+### As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
+
+### I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
+
+### Let's Code 💻 
+
+- 🔭 I’m currently working on:
+***GoBarber*** -> https://github.com/JoaoGomes5/GoBarber
+- 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
+- 📫 How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
+
+
+<div align="center">
+  
+<h3>Top Languages:</h3>
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGomes5&theme=tokyonight&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoGomes5&hide=contribs,prs&theme=tokyonight&show_icons=true)
+
+</div>
