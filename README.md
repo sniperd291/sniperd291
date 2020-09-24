@@ -2,7 +2,7 @@
 
 ### Enthusiastic about the best Web and Mobile development technologies.
 
-### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them.
+### 🌱 I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them.
 
 ### Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
 
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on:
 ***GoBarber*** -> https://github.com/JoaoGomes5/GoBarber
-- 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
+
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
