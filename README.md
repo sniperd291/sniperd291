@@ -14,7 +14,7 @@
 
 ### Let's Code 💻 
 
-#### 🔭 Current working on: [GoBarber](https://github.com/JoaoGomes5/GoBarber)
+#### 🔭 Current working on: [Happy](https://github.com/JoaoGomes5/Happy)
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
 
