@@ -2,7 +2,7 @@
 
 ### Enthusiastic about the best Web and Mobile development technologies.
 
-### 🌱 I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them.
+### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
 
 ### Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
 
