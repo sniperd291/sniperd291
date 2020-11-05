@@ -15,8 +15,8 @@
 ### Let's Code 💻 
 
 #### 🔭 Current working on: 
-   [E-Recolha](https://github.com/JoaoGomes5/E-Recolha)
-   [GoBarber](https://github.com/JoaoGomes5/GoBarber)                     
+   - [E-Recolha](https://github.com/JoaoGomes5/E-Recolha)
+   - [GoBarber](https://github.com/JoaoGomes5/GoBarber)                     
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
 
