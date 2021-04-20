@@ -13,10 +13,7 @@
 ### I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
 
 ### Let's Code 💻 
-
-#### 🔭 Current working on: 
-   - ♻️ [E-Recolha](https://github.com/JoaoGomes5/E-Recolha)
-   - 💈 [GoBarber](https://github.com/JoaoGomes5/GoBarber)                  
+       
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
 
