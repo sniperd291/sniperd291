@@ -18,12 +18,3 @@
 #### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
 
 
-<div align="center">
-  
-<h3>Top Languages:</h3>
-<hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGomes5&theme=tokyonight&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoGomes5&hide=contribs,prs&theme=tokyonight&show_icons=true)
-
-</div>
