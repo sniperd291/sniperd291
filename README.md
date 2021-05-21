@@ -1,10 +1,9 @@
 
-<p>
-  <h1 align="center"><b>Hello there, I'm Joao 👋</b></h1>
-</p>
+# Hello there, I'm Joao 👋
 
-<div>
- 
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ### Enthusiastic about the best Web and Mobile development technologies.
 
 ### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
@@ -19,7 +18,7 @@
 
 ### Let's Code 💻 
  
-</div>
+
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" />
 
