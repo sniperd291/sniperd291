@@ -1,11 +1,10 @@
 
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
 <p>
   <h1 align="center"><b>Hello there, I'm Joao 👋</b></h1>
 </p>
 
-<div align="center">
+<div>
+ 
 ### Enthusiastic about the best Web and Mobile development technologies.
 
 ### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
