@@ -17,10 +17,6 @@
 ### I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
 
 ### Let's Code 💻 
- 
-
-
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" />
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
 
