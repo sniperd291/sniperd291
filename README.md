@@ -2,7 +2,7 @@
 # Hello there, I'm Joao 👋
 
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" />
+<img align="right" height="270px" alt="Coding" src="https://i.imgur.com/wdafOKW.png" />
 
 ### Enthusiastic about the best Web and Mobile development technologies.
 
