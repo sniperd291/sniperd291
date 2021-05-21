@@ -1,5 +1,11 @@
-# João Gomes
 
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+<p>
+  <h1 align="center"><b>Hello there, I'm Joao 👋</b></h1>
+</p>
+
+<div>
 ### Enthusiastic about the best Web and Mobile development technologies.
 
 ### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
@@ -13,8 +19,13 @@
 ### I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
 
 ### Let's Code 💻 
-       
+ 
+</div>
+
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" />
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
 
 
+
+![Lauching](https://media.giphy.com/media/HtaGVNHVnTNuw/giphy.gif)
