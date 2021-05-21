@@ -5,7 +5,7 @@
   <h1 align="center"><b>Hello there, I'm Joao 👋</b></h1>
 </p>
 
-<div>
+<div align="center">
 ### Enthusiastic about the best Web and Mobile development technologies.
 
 ### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
@@ -28,4 +28,4 @@
 
 
 
-![Lauching](https://media.giphy.com/media/HtaGVNHVnTNuw/giphy.gif)
+
