@@ -1,5 +1,5 @@
 
-# Hello there, I'm Joao 👋
+# Hello there, I'm João 👋
 
 
 <img align="right" height="270px" alt="Coding" src="https://i.imgur.com/wdafOKW.png" />
