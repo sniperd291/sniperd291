@@ -1,24 +1,26 @@
 
-# Hello there, I'm João 👋
+# Presentation
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am, Daniel Vieira de Souza</h1>
+<h3 align="center">I'am a developer front-end.</h3>
+
+- 💻 Study language: **JavaScript, HTML e CSS**
+
+<img align="right" height="220px" alt="Coding" src="https://i.imgur.com/wdafOKW.png" />
 
 
-<img align="right" height="270px" alt="Coding" src="https://i.imgur.com/wdafOKW.png" />
+<div align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="22" height="22"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="22" height="22"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="22" height="22"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="22" height="22"/>
+</div>
 
-### Enthusiastic about the best Web and Mobile development technologies.
+- 📫 E-mail: **danbotu@hotmail.com**
+- 📞 Whatsapp: https://api.whatsapp.com/send?phone=557781164182
 
-### I currently study NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
-
-### Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
-
-### My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧
-
-### As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
-
-### I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
-
-### Let's Code 💻 
-
-#### [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gomes-b732541a4/)
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-vieira-36172959" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savio" height="30" width="30" /></a>
+</p>
 
 
 
